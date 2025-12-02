@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/dev-araujo/go-job/handler"
+	handler "github.com/dev-araujo/go-job/handler/opening"
 	"github.com/gin-gonic/gin"
 )
 
